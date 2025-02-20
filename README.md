@@ -28,8 +28,8 @@ pillow (PIL)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/course-management-system.git
-cd course-management-system
+git clone https://github.com/efekurucay/basic-course-management-system-python.git
+cd basic-course-management-system-python
 ```
 
 2. Install required packages:
